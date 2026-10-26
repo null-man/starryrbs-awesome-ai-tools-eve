@@ -538,6 +538,9 @@ Welcome to Awesome AI Tools! Dive into this curated list of AI tools, featuring 
 * [Wondershare Virbo](https://bit.ly/42mz42q) - Wondershare Virbo's advanced AI technology enables users to create the most realistic and persona...
 * [Workbookly](https://workbookly.app?utm_source=toolify) - Transforms YouTube videos into interactive worksheets and PDFs.
 * [Zeno](https://youzeno.com?utm_source=toolify) - AI YouTube curator & summarizer for bite-sized learning, insights, and career fuel.
+- [KDA Firestarter AI Dance](https://kdafirestarterai.dev) - Independent unofficial AI: one photo → 13s 480p 21:9 solo dance (Paid from $7.99). Not affiliated with Riot Games or K/DA
+- [A2O LITE NEON AI Dance](https://a2oliteai.org) - Independent AI: two photos → 15s 480p 16:9 duo neon dance with reference soundtrack (Paid from $7.99)
+- [dime dime baby ai](https://dimedimebabyai.dev) - Independent AI: one photo → ~5s 480p 9:16 AI dance (Quince Classic or Party Groove) (Paid from $7.99)
 
 ## 🎶 Generative AI Audio
 
